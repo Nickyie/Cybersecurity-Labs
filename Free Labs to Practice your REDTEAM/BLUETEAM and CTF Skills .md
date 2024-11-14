@@ -41,3 +41,4 @@ A collection of free labs to practice and test your REDTEAM/BLUETEAM and CTF Ski
 - [Rangeforce](https://www.rangeforce.com)
 - [Ctftime](https://ctftime.org)
 - [Pwn college](https://dojo.pwn.college)
+- [CyberPython](https://pythoncyber.go.ro)
